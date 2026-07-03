@@ -2,88 +2,116 @@
 
 ## Project Overview
 
-StudentSarthi is a PRINCE2-based project simulation designed to build a structured Minimum Viable Product (MVP) platform that connects students seeking part-time income opportunities with employers offering flexible jobs.
+StudentSarthi is a structured project management case study simulating the end to end delivery of a Minimum Viable Product platform that connects students seeking part time job opportunities with employers offering flexible roles.
 
-This project demonstrates full project governance including initiation, planning, risk management, communication, quality assurance, and change control.
+The project applies PRINCE2 governance principles to demonstrate controlled project execution across the full lifecycle, including initiation, planning, execution planning, risk management, quality assurance, communication management, change control, and project closure.
 
 ---
 
 ## Project Objective
 
-The main objective of this project is to design a controlled MVP system that:
+The objective of this project is to define and govern the delivery of an MVP platform that:
 
-- Connects students with part-time job opportunities  
-- Enables employers to post and manage job listings  
-- Supports structured job search and application flow  
-- Applies PRINCE2 governance principles for project control  
+- Connects students with part time job opportunities  
+- Enables employers to publish and manage job listings  
+- Supports a structured job search and application workflow  
+- Demonstrates structured project delivery using PRINCE2 governance principles  
 
 ---
 
 ## Methodology
 
-- Framework: PRINCE2  
-- Type: MVP Simulation Project  
-- Approach: Stage-based controlled delivery  
-- Focus: Governance, documentation, and structured project execution  
+- Framework: PRINCE2 project management methodology  
+- Project Type: MVP simulation case study  
+- Delivery Approach: Stage gated lifecycle with formal approvals  
+- Focus Areas: Governance, planning, risk management, quality management, and stakeholder coordination  
 
 ---
 
-## Project Documents Included
+## Project Scope
 
-This repository contains the following PRINCE2 artifacts:
+### In Scope
+- Project governance documentation  
+- MVP definition and planning  
+- Stakeholder identification and analysis  
+- Risk management strategy and risk register  
+- Communication management planning  
+- Quality management strategy  
+- Change control process definition  
+- High level system design for MVP  
+
+### Out of Scope
+- Full production ready software development  
+- Large scale deployment  
+- External system integrations beyond MVP definition  
+
+---
+
+## Project Deliverables
+
+The repository includes the following PRINCE2 aligned artefacts:
 
 - Project Brief  
 - Business Case  
 - Project Charter  
 - Project Plan  
-- Communication Plan  
+- Communication Management Plan  
 - Quality Management Strategy  
 - Risk Management Strategy  
 - Risk Register  
 - Change Control Approach  
+- Work Breakdown Structure (MS Project file)
 
 ---
 
-## Key Features
+## Governance Structure
 
-- Structured MVP definition  
-- Clear stakeholder management approach  
-- Formal risk management system  
+The project follows a structured stage gate governance model:
+
+- Initiation stage approval before planning  
+- Planning stage approval before execution readiness  
+- Requirements validation checkpoint  
+- Design approval checkpoint  
+- Development completion review  
+- Testing completion and formal sign off  
+- Final project closure approval  
+
+Each stage includes defined outputs, controls, and approval criteria aligned with PRINCE2 principles.
+
+---
+
+## Key Capabilities Demonstrated
+
+This project demonstrates practical understanding of:
+
+- PRINCE2 project lifecycle management  
+- Stage gated delivery control  
+- Stakeholder and communication management  
+- Risk identification, assessment, and mitigation planning  
 - Change control governance process  
-- Quality assurance framework  
-- Stage-based project planning  
-
----
-
-## Project Structure
-
-All documents represent a complete PRINCE2 project lifecycle:
-
-- Initiation documents  
-- Planning documents  
-- Governance framework  
-- Risk and quality management  
-- Communication strategy  
-
----
-
-## Key Learning Outcomes
-
-This project demonstrates:
-
-- Application of PRINCE2 methodology in a real-world simulation  
-- Understanding of structured project governance  
-- Risk identification and mitigation techniques  
-- Importance of change control in project stability  
-- Role of communication and stakeholder management  
+- Quality management framework design  
+- MVP planning and structured decomposition  
+- Work Breakdown Structure development using Microsoft Project  
 
 ---
 
 ## Tools Used
 
-- Microsoft Word (documentation)  
-- GitHub (version control and portfolio hosting)  
-- PRINCE2 framework (project methodology)  
+- Microsoft Word for documentation  
+- Microsoft Project for scheduling and WBS  
+- GitHub for version control and portfolio hosting  
+- PRINCE2 framework for governance structure  
+
+---
+
+## Professional Skills Demonstrated
+
+- Project coordination and planning  
+- PMO documentation and governance  
+- Structured analytical thinking  
+- Risk and quality management awareness  
+- Stakeholder management planning  
+- End to end project lifecycle understanding  
 
 ---
 
@@ -91,10 +119,10 @@ This project demonstrates:
 
 Ravi Raj  
 MBA Student | Aspiring Project Manager  
-Focused on Project Management certifications and EU/UK opportunities  
+Focused on PMO, PRINCE2 environments, and project delivery roles in Europe and the UK  
 
 ---
 
-## Status
+## Project Status
 
-Completed (Simulation Project – Version 1.0)
+Completed – Portfolio Case Study Version 1.0
