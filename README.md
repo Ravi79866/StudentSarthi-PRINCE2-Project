@@ -69,7 +69,7 @@ The repository includes the following PRINCE2 aligned artefacts:
 The project follows a structured stage gate governance model:
 
 - Initiation stage approval before planning  
-- Planning stage approval before execution readiness  
+- Planning stage approval before execution  
 - Requirements validation checkpoint  
 - Design approval checkpoint  
 - Development completion review  
